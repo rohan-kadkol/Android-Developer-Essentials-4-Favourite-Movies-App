@@ -1,11 +1,13 @@
-# Android Developer Essentials
+# Android Weekly Series
 
-Welcome to the Android Developer Essentials workshop series!
-Here we will cover all the essential skills needed to build complex, robust, and attractive Android apps.
+Welcome to the Android Weekly Series!
+Here we will cover all the essential skills needed to build professional, robust, and attractive Android apps.
 
 ## 4. Favourite Movies App
 
 Cycle through your favourite movies!
+
+This sample app only shows Pink Panther and Pink Panther 2 (my favorite movies!), but you can change this to your liking!
 
 ### Screenshots
 <br>
